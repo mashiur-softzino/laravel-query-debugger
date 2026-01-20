@@ -5,7 +5,7 @@
         "laravel",
         "query",
         "debugger",
-        "n+1",
+        "n-plus-1",
         "performance",
         "optimization",
         "eloquent"

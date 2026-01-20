@@ -1,8 +1,8 @@
 # Laravel Query Debugger
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/mash/laravel-query-debugger.svg?style=flat-square)](https://packagist.org/packages/mash/laravel-query-debugger)
-[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/mash/laravel-query-debugger/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/mash/laravel-query-debugger/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![Total Downloads](https://img.shields.io/packagist/dt/mash/laravel-query-debugger.svg?style=flat-square)](https://packagist.org/packages/mash/laravel-query-debugger)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/mashiur-softzino/laravel-query-debugger.svg?style=flat-square)](https://packagist.org/packages/mashiur-softzino/laravel-query-debugger)
+[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/mashiur-softzino/laravel-query-debugger/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/mashiur-softzino/laravel-query-debugger/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![Total Downloads](https://img.shields.io/packagist/dt/mashiur-softzino/laravel-query-debugger.svg?style=flat-square)](https://packagist.org/packages/mashiur-softzino/laravel-query-debugger)
 
 **Auto-detect N+1 queries, duplicate queries, slow queries, and get actionable optimization suggestions for your Laravel Eloquent queries.**
 
@@ -50,7 +50,7 @@ Stop wasting hours debugging query performance! This package automatically detec
 You can install the package via composer:
 
 ```bash
-composer require mash/laravel-query-debugger --dev
+composer require mashiur-softzino/laravel-query-debugger --dev
 ```
 
 The package will automatically register itself via Laravel's auto-discovery.
@@ -367,7 +367,7 @@ Please review [our security policy](../../security/policy) on how to report secu
 
 ## Credits
 
-- [Mash](https://github.com/mash)
+- [Mashiur Rahman](https://github.com/mashiur-softzino)
 - [All Contributors](../../contributors)
 
 ## License
@@ -378,4 +378,4 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 
 If you find this package helpful, please consider giving it a ⭐ on GitHub!
 
-For issues or questions, please open an issue on [GitHub](https://github.com/mash/laravel-query-debugger/issues).
+For issues or questions, please open an issue on [GitHub](https://github.com/mashiur-softzino/laravel-query-debugger/issues).

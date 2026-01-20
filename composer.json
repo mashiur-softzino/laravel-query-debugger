@@ -1,5 +1,5 @@
 {
-    "name": "mash/laravel-query-debugger",
+    "name": "mashiur-softzino/laravel-query-debugger",
     "description": "Auto-detect N+1 queries, slow queries and suggest optimizations for Laravel Eloquent",
     "keywords": [
         "laravel",
@@ -10,7 +10,7 @@
         "optimization",
         "eloquent"
     ],
-    "homepage": "https://github.com/mash/laravel-query-debugger",
+    "homepage": "https://github.com/mashiur-softzino/laravel-query-debugger",
     "license": "MIT",
     "authors": [
         {
